@@ -1,0 +1,142 @@
+[
+    {
+        "name": "ijso",
+        "year": 2025,
+        "start": "2025-11-23",
+        "end": "2025-12-02",
+        "country": "ru",
+        "website": null,
+        "participants": {
+            "43": null,
+            "44": null,
+            "45": null,
+            "46": null,
+            "47": null,
+            "48": "bronze"
+        }
+    },
+    {
+        "name": "ijso",
+        "year": 2024,
+        "start": "2024-12-02",
+        "end": "2024-12-12",
+        "country": "ro",
+        "website": "https://ijso2024.upb.ro/",
+        "participants": {
+            "42": "bronze"
+        }
+    },
+    {
+        "name": "ijso",
+        "year": 2023,
+        "start": "2023-12-01",
+        "end": "2023-12-10",
+        "country": "th",
+        "website": null,
+        "participants": {
+            "37": "silver",
+            "38": "bronze",
+            "39": null,
+            "40": null,
+            "41": null,
+            "36": "bronze"
+        }
+    },
+    {
+        "name": "ijso",
+        "year": 2022,
+        "start": "2022-12-02",
+        "end": "2022-12-12",
+        "country": "co",
+        "website": null,
+        "participants": {
+            "33": "bronze",
+            "30": null,
+            "31": null,
+            "32": null,
+            "35": null,
+            "36": null
+        }
+    },
+    {
+        "name": "ijso",
+        "year": 2021,
+        "start": "2021-12-12",
+        "end": "2021-12-21",
+        "country": "ae",
+        "website": null,
+        "participants": {
+            "29": "bronze",
+            "30": null,
+            "31": null,
+            "32": null,
+            "33": "bronze",
+            "34": "bronze"
+        },
+        "online": true
+    },
+    {
+        "name": "ijso",
+        "year": 2018,
+        "start": "2018-12-02",
+        "end": "2018-12-12",
+        "country": "bw",
+        "website": null,
+        "participants": {
+            "19": "gold",
+            "24": "silver",
+            "25": "bronze",
+            "26": "bronze",
+            "27": "bronze",
+            "28": null
+        }
+    },
+    {
+        "name": "ijso",
+        "year": 2017,
+        "start": "2017-12-03",
+        "end": "2017-12-12",
+        "country": "nl",
+        "website": null,
+        "participants": {
+            "13": "bronze",
+            "19": "bronze",
+            "20": "bronze",
+            "21": null,
+            "22": null,
+            "23": null
+        }
+    },
+    {
+        "name": "ijso",
+        "year": 2016,
+        "start": "2016-12-02",
+        "end": "2016-12-11",
+        "country": "id",
+        "website": null,
+        "participants": {
+            "13": "bronze",
+            "14": "bronze",
+            "15": "bronze",
+            "16": "bronze",
+            "17": "bronze",
+            "18": "bronze"
+        }
+    },
+    {
+        "name": "ijso",
+        "year": 2015,
+        "start": "2015-12-02",
+        "end": "2015-12-11",
+        "country": "kr",
+        "website": null,
+        "participants": {
+            "7": "silver",
+            "8": "bronze",
+            "9": "bronze",
+            "10": "bronze",
+            "11": "bronze",
+            "12": "bronze"
+        }
+    }
+]

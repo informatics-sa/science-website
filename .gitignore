@@ -1,0 +1,28 @@
+# Cache
+.ruby-version
+.jekyll-cache
+__pycache__
+_site
+vendor/bundle/
+.bundle/
+lib/Database/
+
+# Build artifacts
+.github/workflows/release_push.yml
+.resolved-builder
+root/*
+lib
+!root/img
+!root/data
+root/data/index.md
+!root/files
+build.py
+helper.py
+Gemfile
+Gemfile.lock
+
+
+# OS / Editor Specific
+.DS_Store
+flake.nix
+Thumbs.db
